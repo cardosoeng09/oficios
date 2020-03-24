@@ -1,0 +1,16 @@
+{
+  "name": "oficios",
+  "version": "1.0.0",
+  "main": "oficios.js",
+  "dependencies": {
+    "mocha": "^7.1.1",
+    "testcafe": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
