@@ -5,7 +5,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "jest": "^25.2.1",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "testcafe": "^1.8.3"
   },
